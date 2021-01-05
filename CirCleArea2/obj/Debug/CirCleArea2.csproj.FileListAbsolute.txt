@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\bin\Debug\CirCleArea2.exe.config
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\bin\Debug\CirCleArea2.exe
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\bin\Debug\CirCleArea2.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.Form1.resources
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.exe
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\CirCleArea2\obj\Debug\CirCleArea2.csprojAssemblyReference.cache

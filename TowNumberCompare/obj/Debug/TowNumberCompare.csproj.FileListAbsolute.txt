@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\bin\Debug\TowNumberCompare.exe.config
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\bin\Debug\TowNumberCompare.exe
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\bin\Debug\TowNumberCompare.pdb
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.Form1.resources
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.exe
+C:\Users\Rachanon\source\repos\GenRetangle\TowNumberCompare\obj\Debug\TowNumberCompare.pdb
